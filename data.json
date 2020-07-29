@@ -1,0 +1,27 @@
+{
+	"profiles":{
+		"profile":{
+			
+			"game":"Cricket, Basket-Ball,Foot-Ball",
+			"Movies":"IRON-MAN and all Sci-fi",
+			"studies":"APP DEVELOPEMENT,coding(c,python,html),MAT-LAB,LT-SPICE"
+		},
+		"tenth":{
+			"school":"RavindraBharathiSchool",
+			"Per":"8.8",
+			"pass":"2016"
+		},
+		"intey":{
+			"clg":"srichaitanya",
+			"per":"92.1",
+			"Pass":"2018",
+			"stream":"MPC"
+		},
+		"btech":{
+			"un":"SRM UNIVERSITY",
+			"gpa":"9.1",
+			"out":"2022"
+		}
+
+	}
+}
