@@ -169,7 +169,7 @@ div{
 	top: 7%;
 	position: absolute;
 	left: -50;
-	font-size: 45px;
+	font-size: 20px;
 	font-weight: 20%;
 	color: #fff;
 	
@@ -177,7 +177,7 @@ div{
 }
 div:nth-child(1){
 	
-	animation: move 5s 950ms infinite cubic-bezier(.2,.2,.2,.2);
+	animation: move 5s 500ms infinite cubic-bezier(.2,.2,.2,.2);
 	
 }
 div:nth-child(2){
